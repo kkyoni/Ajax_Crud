@@ -14,11 +14,15 @@ Step 5 – Crate CRUD API using PHP In this step we will create api for CRUD ope
 
 Step 6 –  Run your project In last step, go to browser and run employee.php file.
 
-Create following files in your root folder :-
+Create following files in your root folder
 !).   employee-add.php
+
 !!).  employee-list.php
+
 !!!). employee-view.php
+
 !V).  employee-edit.php
+
 V).   employee-delete.php
 
 1) employee-add.php    :- In this file, we will perform create operation.This file are used for employee create API.
